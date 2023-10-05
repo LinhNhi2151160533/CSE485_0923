@@ -1,5 +1,4 @@
 <?php
-
 $arrs = ['PHP', 'HTML', 'CSS', 'JS'];
 
 echo "<style>";
